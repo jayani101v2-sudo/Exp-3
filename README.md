@@ -58,6 +58,10 @@ To study the problem statement ,SRS document and draw the UML diagram of railway
 
 <img width="618" height="787" alt="Screenshot 2026-05-12 155443" src="https://github.com/user-attachments/assets/76a56e56-fe64-41c2-990e-92650f8f7b80" />
 
+## SEQUENCE DIAGRAM:
+
+<img width="832" height="442" alt="image" src="https://github.com/user-attachments/assets/4e5ed505-c23b-4ed3-9ff4-25ccc0c32a59" />
+
 
 # RESULT:
 
